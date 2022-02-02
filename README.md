@@ -8,7 +8,7 @@
 > Queues  
 > Trees  
 > Binary Trees  
-> Binary Search Trees
+> Binary Search Trees   
 > Priority Queues  
 > Hashmaps  
 > Tries and Huffman Coding  
